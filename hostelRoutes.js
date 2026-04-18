@@ -5,11 +5,11 @@ const {
   getHostels,
   createHostel,
   getHostelById
-} = require('../controllers/hostelController');
+} = require('./hostelController'); // ✅ Fixed: Removed ../controllers/
 
 // 🔐 IMPORT MIDDLEWARES
-const protect = require('../middlewares/authMiddleware');
-const adminOnly = require('../middlewares/adminMiddleware');
+const protect = require('./authMiddleware'); // ✅ Fixed: Removed ../middlewares/
+const adminOnly = require('./adminMiddleware'); // ✅ Fixed: Removed ../middlewares/
 
 // ==============================
 // PUBLIC ROUTES
