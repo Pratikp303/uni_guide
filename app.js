@@ -1,17 +1,16 @@
 const express = require('express');
 const cors = require("cors");
-
 const app = express();
 
-// ✅ MIDDLEWARE (ORDER MATTERS)
+// ✅ MIDDLEWARE
+// In production, you might want to allow your specific frontend URL
 app.use(cors({
-  origin: "http://localhost:3000",
-  credentials: true
+    origin: ["http://localhost:3000", "https://your-frontend-link.vercel.app"], 
+    credentials: true 
 }));
-
 app.use(express.json());
 
-// ✅ IMPORT ROUTES
+// ✅ IMPORT ROUTES (Fixed paths)
 const universityRoutes = require('./routes/universityRoutes');
 const disciplineRoutes = require('./routes/disciplineRoutes');
 const courseRoutes = require('./routes/courseRoutes');
@@ -31,8 +30,8 @@ app.use('/api/v1/search', searchRoutes);
 
 // ✅ TEST ROUTE
 app.get('/', (req, res) => {
-  res.send("API Running 🚀");
+    res.send("API Running 🚀");
 });
 
 // ✅ EXPORT
-module.exports = app;
+module.exports = app;s
