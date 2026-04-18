@@ -1,0 +1,458 @@
+[
+  { "university": "Jadavpur University", "courseTitle": "B.Tech Computer Science & Engineering", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 120000 },
+  { "university": "Jadavpur University", "courseTitle": "B.Tech Information Technology", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 120000 },
+  { "university": "Jadavpur University", "courseTitle": "B.Tech Mechanical Engineering", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 120000 },
+  { "university": "Jadavpur University", "courseTitle": "B.Tech Civil Engineering", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 120000 },
+  { "university": "Jadavpur University", "courseTitle": "B.Tech Electrical Engineering", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 120000 },
+  { "university": "Jadavpur University", "courseTitle": "B.Tech Electronics & Telecommunication", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 120000 },
+  { "university": "Jadavpur University", "courseTitle": "B.Tech Chemical Engineering", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 120000 },
+  { "university": "Jadavpur University", "courseTitle": "B.Tech Production Engineering", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 120000 },
+  { "university": "Jadavpur University", "courseTitle": "B.Tech Metallurgical Engineering", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 120000 },
+  { "university": "Jadavpur University", "courseTitle": "B.Tech Instrumentation Engineering", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 120000 },
+
+  { "university": "Jadavpur University", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 3500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 21600 },
+  { "university": "Jadavpur University", "courseTitle": "B.Sc Chemistry", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 3500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 21600 },
+  { "university": "Jadavpur University", "courseTitle": "B.Sc Mathematics", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 3500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 21600 },
+  { "university": "Jadavpur University", "courseTitle": "B.Sc Geography", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 3500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 21600 },
+
+  { "university": "Jadavpur University", "courseTitle": "B.A English", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 14400 },
+  { "university": "Jadavpur University", "courseTitle": "B.A Bengali", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 14400 },
+  { "university": "Jadavpur University", "courseTitle": "B.A Economics", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 14400 },
+  { "university": "Jadavpur University", "courseTitle": "B.A History", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 14400 },
+
+  { "university": "Jadavpur University", "courseTitle": "M.Tech Computer Technology", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 150000 },
+  { "university": "Jadavpur University", "courseTitle": "M.Tech Power Engineering", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 150000 },
+
+  { "university": "Jadavpur University", "courseTitle": "MCA", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 4000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 15320 },
+
+  { "university": "Jadavpur University", "courseTitle": "PhD Engineering", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 4000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 473000 },
+
+  { "university": "Kazi Nazrul University", "courseTitle": "B.A English", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 15000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "B.A Bengali", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 15000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "B.A History", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 15000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "B.A Political Science", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 15000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "B.A Philosophy", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 15000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "B.A Sociology", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 15000 },
+
+  { "university": "Kazi Nazrul University", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1200, "frequency": "One Time" } ], "totalEstimatedCost": 18000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "B.Sc Chemistry", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1200, "frequency": "One Time" } ], "totalEstimatedCost": 18000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "B.Sc Mathematics", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1200, "frequency": "One Time" } ], "totalEstimatedCost": 18000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "B.Sc Geography", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1200, "frequency": "One Time" } ], "totalEstimatedCost": 18000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "B.Sc Environmental Science", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1200, "frequency": "One Time" } ], "totalEstimatedCost": 18000 },
+
+  { "university": "Kazi Nazrul University", "courseTitle": "B.Com Accounting & Finance", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2800, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 17000 },
+
+  { "university": "Kazi Nazrul University", "courseTitle": "BBA General Management", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 8000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 50000 },
+
+  { "university": "Kazi Nazrul University", "courseTitle": "BCA", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 9000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" } ], "totalEstimatedCost": 55000 },
+
+  { "university": "Kazi Nazrul University", "courseTitle": "M.A English", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 12000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "M.A Bengali", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 12000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "M.A History", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 12000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "M.A Political Science", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 12000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "M.A Education", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 12000 },
+
+  { "university": "Kazi Nazrul University", "courseTitle": "M.Sc Mathematics", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1200, "frequency": "One Time" } ], "totalEstimatedCost": 15000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "M.Sc Geography", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1200, "frequency": "One Time" } ], "totalEstimatedCost": 15000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "M.Sc Environmental Science", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1200, "frequency": "One Time" } ], "totalEstimatedCost": 15000 },
+
+  { "university": "Kazi Nazrul University", "courseTitle": "M.Com", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 2800, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" } ], "totalEstimatedCost": 13000 },
+
+  { "university": "Kazi Nazrul University", "courseTitle": "MBA Finance", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 25000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" } ], "totalEstimatedCost": 120000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "MBA Marketing", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 25000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" } ], "totalEstimatedCost": 120000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "MBA Human Resource Management", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 25000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" } ], "totalEstimatedCost": 120000 },
+
+  { "university": "Kazi Nazrul University", "courseTitle": "PhD Arts", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" } ], "totalEstimatedCost": 60000 },
+  { "university": "Kazi Nazrul University", "courseTitle": "PhD Science", "currency": "INR", "components": [ { "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" } ], "totalEstimatedCost": 60000 },
+  { "university": "Adamas University", "courseTitle": "B.Tech CSE", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 120000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 1000000 },
+  { "university": "Adamas University", "courseTitle": "B.Tech AI & ML", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 120000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 1000000 },
+  { "university": "Adamas University", "courseTitle": "B.Tech Mechanical Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 120000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 1000000 },
+  { "university": "Adamas University", "courseTitle": "B.Tech Civil Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 120000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 1000000 },
+  { "university": "Adamas University", "courseTitle": "B.Tech Electronics & Communication Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 120000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 1000000 },
+
+  { "university": "Adamas University", "courseTitle": "BCA", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 80000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 30000, "frequency": "One Time" }], "totalEstimatedCost": 510000 },
+
+  { "university": "Adamas University", "courseTitle": "BBA Finance", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 90000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 30000, "frequency": "One Time" }], "totalEstimatedCost": 570000 },
+  { "university": "Adamas University", "courseTitle": "BBA Marketing", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 90000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 30000, "frequency": "One Time" }], "totalEstimatedCost": 570000 },
+  { "university": "Adamas University", "courseTitle": "BBA HR", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 90000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 30000, "frequency": "One Time" }], "totalEstimatedCost": 570000 },
+
+  { "university": "Adamas University", "courseTitle": "MBA Finance", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 150000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 650000 },
+  { "university": "Adamas University", "courseTitle": "MBA Marketing", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 150000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 650000 },
+  { "university": "Adamas University", "courseTitle": "MBA HR", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 150000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 650000 },
+
+  { "university": "University of Calcutta", "courseTitle": "B.A English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 2000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" }], "totalEstimatedCost": 12000 },
+  { "university": "University of Calcutta", "courseTitle": "B.A History", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 2000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" }], "totalEstimatedCost": 12000 },
+  { "university": "University of Calcutta", "courseTitle": "B.A Political Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 2000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" }], "totalEstimatedCost": 12000 },
+
+  { "university": "University of Calcutta", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" }], "totalEstimatedCost": 15000 },
+  { "university": "University of Calcutta", "courseTitle": "B.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" }], "totalEstimatedCost": 15000 },
+  { "university": "University of Calcutta", "courseTitle": "B.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 2500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" }], "totalEstimatedCost": 15000 },
+
+  { "university": "University of Calcutta", "courseTitle": "B.Com Accounting", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 2200, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" }], "totalEstimatedCost": 14000 },
+
+  { "university": "University of Calcutta", "courseTitle": "M.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1500, "frequency": "One Time" }], "totalEstimatedCost": 15000 },
+  { "university": "University of Calcutta", "courseTitle": "M.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1500, "frequency": "One Time" }], "totalEstimatedCost": 15000 },
+
+  { "university": "Visva-Bharati University", "courseTitle": "B.A English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1500, "frequency": "One Time" }], "totalEstimatedCost": 18000 },
+  { "university": "Visva-Bharati University", "courseTitle": "B.A Bengali", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1500, "frequency": "One Time" }], "totalEstimatedCost": 18000 },
+  { "university": "Visva-Bharati University", "courseTitle": "B.A Philosophy", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1500, "frequency": "One Time" }], "totalEstimatedCost": 18000 },
+
+  { "university": "Visva-Bharati University", "courseTitle": "BFA Fine Arts", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 40000 },
+
+  { "university": "Visva-Bharati University", "courseTitle": "M.A English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1500, "frequency": "One Time" }], "totalEstimatedCost": 15000 },
+  { "university": "Visva-Bharati University", "courseTitle": "M.A Bengali", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1500, "frequency": "One Time" }], "totalEstimatedCost": 15000 },
+
+  { "university": "University of Delhi", "courseTitle": "B.A English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 10000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 60000 },
+  { "university": "University of Delhi", "courseTitle": "B.A Economics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 10000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 60000 },
+  { "university": "University of Delhi", "courseTitle": "B.A Political Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 10000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 60000 },
+
+  { "university": "University of Delhi", "courseTitle": "B.Com", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 70000 },
+
+  { "university": "University of Delhi", "courseTitle": "M.A English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 50000 },
+  { "university": "University of Delhi", "courseTitle": "M.A Economics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 50000 },
+
+  { "university": "Jawaharlal Nehru University", "courseTitle": "M.A International Relations", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 300, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 500, "frequency": "One Time" }], "totalEstimatedCost": 2000 },
+  { "university": "Jawaharlal Nehru University", "courseTitle": "M.A Economics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 300, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 500, "frequency": "One Time" }], "totalEstimatedCost": 2000 },
+  { "university": "Jawaharlal Nehru University", "courseTitle": "M.A English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 300, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 500, "frequency": "One Time" }], "totalEstimatedCost": 2000 },
+
+  { "university": "Jawaharlal Nehru University", "courseTitle": "M.Sc Biotechnology", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 400, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 500, "frequency": "One Time" }], "totalEstimatedCost": 3000 },
+  { "university": "Jawaharlal Nehru University", "courseTitle": "M.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 400, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 500, "frequency": "One Time" }], "totalEstimatedCost": 3000 },
+
+  { "university": "Jawaharlal Nehru University", "courseTitle": "PhD Arts", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" }], "totalEstimatedCost": 5000 },
+  { "university": "Jawaharlal Nehru University", "courseTitle": "PhD Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" }], "totalEstimatedCost": 5000 },
+  { "university": "Jamia Millia Islamia", "courseTitle": "B.Tech Computer Science Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 16000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 128000 },
+  { "university": "Jamia Millia Islamia", "courseTitle": "B.Tech Mechanical Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 16000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 128000 },
+  { "university": "Jamia Millia Islamia", "courseTitle": "B.Tech Civil Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 16000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 128000 },
+  { "university": "Jamia Millia Islamia", "courseTitle": "B.Tech Electrical Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 16000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 128000 },
+  { "university": "Jamia Millia Islamia", "courseTitle": "B.Tech Electronics Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 16000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 128000 },
+
+  { "university": "Jamia Millia Islamia", "courseTitle": "BBA Management", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 80000 },
+
+  { "university": "Jamia Millia Islamia", "courseTitle": "BA English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+  { "university": "Jamia Millia Islamia", "courseTitle": "BA Economics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+  { "university": "Jamia Millia Islamia", "courseTitle": "BA Political Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+
+  { "university": "Jamia Millia Islamia", "courseTitle": "MBA Finance", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 47000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 200000 },
+  { "university": "Jamia Millia Islamia", "courseTitle": "MBA Marketing", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 47000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 200000 },
+  { "university": "Jamia Millia Islamia", "courseTitle": "MBA HR", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 47000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 200000 },
+
+
+
+  { "university": "Banaras Hindu University", "courseTitle": "B.Tech Computer Science Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 35000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 300000 },
+  { "university": "Banaras Hindu University", "courseTitle": "B.Tech Mechanical Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 35000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 300000 },
+  { "university": "Banaras Hindu University", "courseTitle": "B.Tech Civil Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 35000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 300000 },
+  { "university": "Banaras Hindu University", "courseTitle": "B.Tech Electrical Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 35000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 300000 },
+
+  { "university": "Banaras Hindu University", "courseTitle": "MBBS Medicine", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 25000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 250000 },
+
+  { "university": "Banaras Hindu University", "courseTitle": "BA Arts", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 4000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 25000 },
+
+  { "university": "Banaras Hindu University", "courseTitle": "MBA Finance", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 50000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 15000, "frequency": "One Time" }], "totalEstimatedCost": 220000 },
+  { "university": "Banaras Hindu University", "courseTitle": "MBA Marketing", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 50000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 15000, "frequency": "One Time" }], "totalEstimatedCost": 220000 },
+
+
+
+  { "university": "Aligarh Muslim University", "courseTitle": "B.Tech Computer Science Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 20000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 180000 },
+  { "university": "Aligarh Muslim University", "courseTitle": "B.Tech Mechanical Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 20000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 180000 },
+  { "university": "Aligarh Muslim University", "courseTitle": "B.Tech Civil Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 20000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 180000 },
+
+  { "university": "Aligarh Muslim University", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+  { "university": "Aligarh Muslim University", "courseTitle": "B.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+
+  { "university": "Aligarh Muslim University", "courseTitle": "BA Arts", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 4000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 25000 },
+
+  { "university": "Aligarh Muslim University", "courseTitle": "MBA Management", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 45000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 200000 },
+
+
+
+  { "university": "Dr. APJ Abdul Kalam Technical University", "courseTitle": "B.Tech Computer Science Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 500000 },
+  { "university": "Dr. APJ Abdul Kalam Technical University", "courseTitle": "B.Tech Information Technology", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 500000 },
+  { "university": "Dr. APJ Abdul Kalam Technical University", "courseTitle": "B.Tech Mechanical Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 500000 },
+  { "university": "Dr. APJ Abdul Kalam Technical University", "courseTitle": "B.Tech Civil Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 500000 },
+
+  { "university": "Dr. APJ Abdul Kalam Technical University", "courseTitle": "B.Pharma", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 50000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 450000 },
+
+  { "university": "Dr. APJ Abdul Kalam Technical University", "courseTitle": "MBA Finance", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 70000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 300000 },
+  { "university": "Dr. APJ Abdul Kalam Technical University", "courseTitle": "MBA Marketing", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 70000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 300000 },
+
+
+
+  { "university": "Mumbai University", "courseTitle": "B.Com Accounting & Finance", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 8000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 50000 },
+
+  { "university": "Mumbai University", "courseTitle": "B.Sc IT", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 10000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 60000 },
+  { "university": "Mumbai University", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 10000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 60000 },
+  { "university": "Mumbai University", "courseTitle": "B.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 10000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 60000 },
+
+  { "university": "Mumbai University", "courseTitle": "BA Arts", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+
+  { "university": "Mumbai University", "courseTitle": "MBA Management", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 250000 },
+  
+  { "university": "Savitribai Phule Pune University", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 80000 },
+  { "university": "Savitribai Phule Pune University", "courseTitle": "B.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 80000 },
+  { "university": "Savitribai Phule Pune University", "courseTitle": "B.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 80000 },
+  { "university": "Savitribai Phule Pune University", "courseTitle": "B.Sc Computer Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 80000 },
+
+  { "university": "Savitribai Phule Pune University", "courseTitle": "BBA Management", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 25000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 160000 },
+
+  { "university": "Savitribai Phule Pune University", "courseTitle": "M.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 15000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 70000 },
+  { "university": "Savitribai Phule Pune University", "courseTitle": "M.Sc Computer Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 15000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 70000 },
+
+  { "university": "Savitribai Phule Pune University", "courseTitle": "MBA Finance", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 70000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 300000 },
+  { "university": "Savitribai Phule Pune University", "courseTitle": "MBA Marketing", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 70000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 300000 },
+
+
+
+  { "university": "Shivaji University", "courseTitle": "B.A Arts", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+  { "university": "Shivaji University", "courseTitle": "B.Com Commerce", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 35000 },
+
+  { "university": "Shivaji University", "courseTitle": "M.A History", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 35000 },
+  { "university": "Shivaji University", "courseTitle": "M.A Economics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 35000 },
+
+  { "university": "Shivaji University", "courseTitle": "M.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 8000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 40000 },
+  { "university": "Shivaji University", "courseTitle": "M.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 8000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 40000 },
+
+
+
+  { "university": "University of Madras", "courseTitle": "B.A English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 40000 },
+  { "university": "University of Madras", "courseTitle": "B.A History", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 40000 },
+
+  { "university": "University of Madras", "courseTitle": "B.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+  { "university": "University of Madras", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+
+  { "university": "University of Madras", "courseTitle": "M.A English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 8000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 40000 },
+  { "university": "University of Madras", "courseTitle": "M.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 9000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+
+
+
+  { "university": "Anna University", "courseTitle": "B.Tech Computer Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 25000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 200000 },
+  { "university": "Anna University", "courseTitle": "B.Tech Information Technology", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 25000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 200000 },
+  { "university": "Anna University", "courseTitle": "B.Tech Mechanical Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 25000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 200000 },
+  { "university": "Anna University", "courseTitle": "B.Tech Civil Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 25000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 200000 },
+  { "university": "Anna University", "courseTitle": "B.Tech Electrical Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 25000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 200000 },
+
+  { "university": "Anna University", "courseTitle": "M.Tech Computer Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 50000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 15000, "frequency": "One Time" }], "totalEstimatedCost": 250000 },
+  { "university": "Anna University", "courseTitle": "M.Tech VLSI", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 50000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 15000, "frequency": "One Time" }], "totalEstimatedCost": 250000 },
+  { "university": "Anna University", "courseTitle": "M.Tech Structural Engineering", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 50000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 15000, "frequency": "One Time" }], "totalEstimatedCost": 250000 },
+
+  { "university": "Anna University", "courseTitle": "MBA Finance", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 280000 },
+  { "university": "Anna University", "courseTitle": "MBA Marketing", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 280000 },
+
+
+
+  { "university": "Bharathiar University", "courseTitle": "B.Sc Computer Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 8000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 50000 },
+  { "university": "Bharathiar University", "courseTitle": "B.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 8000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 50000 },
+
+  { "university": "Bharathiar University", "courseTitle": "BCA", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 80000 },
+
+  { "university": "Bharathiar University", "courseTitle": "M.Sc Computer Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 15000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 70000 },
+
+  { "university": "Bharathiar University", "courseTitle": "MBA Management", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 50000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 220000 },
+  
+  { "university": "Christ University", "courseTitle": "BBA Finance", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 100000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 650000 },
+  { "university": "Christ University", "courseTitle": "BBA Marketing", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 100000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 650000 },
+  { "university": "Christ University", "courseTitle": "BBA HR", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 100000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 650000 },
+
+  { "university": "Christ University", "courseTitle": "BCA", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 90000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 40000, "frequency": "One Time" }], "totalEstimatedCost": 580000 },
+
+  { "university": "Christ University", "courseTitle": "BA Psychology", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 70000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 30000, "frequency": "One Time" }], "totalEstimatedCost": 450000 },
+  { "university": "Christ University", "courseTitle": "BA Economics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 70000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 30000, "frequency": "One Time" }], "totalEstimatedCost": 450000 },
+  { "university": "Christ University", "courseTitle": "BA English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 70000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 30000, "frequency": "One Time" }], "totalEstimatedCost": 450000 },
+
+  { "university": "Christ University", "courseTitle": "MBA Finance", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 200000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 60000, "frequency": "One Time" }], "totalEstimatedCost": 900000 },
+  { "university": "Christ University", "courseTitle": "MBA Marketing", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 200000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 60000, "frequency": "One Time" }], "totalEstimatedCost": 900000 },
+
+
+  { "university": "Bangalore University", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 8000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 50000 },
+  { "university": "Bangalore University", "courseTitle": "B.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 8000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 50000 },
+  { "university": "Bangalore University", "courseTitle": "B.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 8000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 50000 },
+
+  { "university": "Bangalore University", "courseTitle": "B.Com", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 9000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 55000 },
+
+  { "university": "Bangalore University", "courseTitle": "M.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 60000 },
+  { "university": "Bangalore University", "courseTitle": "M.Sc Computer Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 60000 },
+
+  { "university": "Bangalore University", "courseTitle": "MBA", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 250000 },
+
+
+  { "university": "University of Hyderabad", "courseTitle": "M.A English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" }], "totalEstimatedCost": 15000 },
+  { "university": "University of Hyderabad", "courseTitle": "M.A Economics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" }], "totalEstimatedCost": 15000 },
+  { "university": "University of Hyderabad", "courseTitle": "M.A Political Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 3000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" }], "totalEstimatedCost": 15000 },
+
+  { "university": "University of Hyderabad", "courseTitle": "M.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 4000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1500, "frequency": "One Time" }], "totalEstimatedCost": 20000 },
+  { "university": "University of Hyderabad", "courseTitle": "M.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 4000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1500, "frequency": "One Time" }], "totalEstimatedCost": 20000 },
+  { "university": "University of Hyderabad", "courseTitle": "M.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 4000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1500, "frequency": "One Time" }], "totalEstimatedCost": 20000 },
+
+  { "university": "University of Hyderabad", "courseTitle": "M.Tech Computer Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+  { "university": "University of Hyderabad", "courseTitle": "M.Tech AI", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+
+  { "university": "University of Hyderabad", "courseTitle": "PhD", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 500, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 1000, "frequency": "One Time" }], "totalEstimatedCost": 5000 },
+
+
+  { "university": "Osmania University", "courseTitle": "BA", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+
+  { "university": "Osmania University", "courseTitle": "B.Com", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 35000 },
+
+  { "university": "Osmania University", "courseTitle": "M.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 8000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 40000 },
+  { "university": "Osmania University", "courseTitle": "M.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 8000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 40000 },
+
+  { "university": "Osmania University", "courseTitle": "MBA", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 50000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 220000 },
+
+
+  { "university": "Andhra University", "courseTitle": "B.Tech CSE", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 30000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 250000 },
+  { "university": "Andhra University", "courseTitle": "B.Tech Mechanical", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 30000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 250000 },
+  { "university": "Andhra University", "courseTitle": "B.Tech Civil", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 30000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 250000 },
+
+  { "university": "Andhra University", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+  { "university": "Andhra University", "courseTitle": "B.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+
+  { "university": "Andhra University", "courseTitle": "M.Sc Computer Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 60000 },
+
+  { "university": "Andhra University", "courseTitle": "MBA Finance", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 250000 },
+  { "university": "Andhra University", "courseTitle": "MBA Marketing", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 250000 },
+
+
+  { "university": "Nirma University", "courseTitle": "B.Tech CSE", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 125000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 1100000 },
+  { "university": "Nirma University", "courseTitle": "B.Tech IT", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 125000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 1100000 },
+  { "university": "Nirma University", "courseTitle": "B.Tech Mechanical", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 125000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 1100000 },
+  { "university": "Nirma University", "courseTitle": "B.Tech Civil", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 125000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 50000, "frequency": "One Time" }], "totalEstimatedCost": 1100000 },
+
+  { "university": "Nirma University", "courseTitle": "BBA Management", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 85000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 30000, "frequency": "One Time" }], "totalEstimatedCost": 550000 },
+
+  { "university": "Nirma University", "courseTitle": "B.Com Commerce", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 25000, "frequency": "One Time" }], "totalEstimatedCost": 400000 },
+
+  { "university": "Nirma University", "courseTitle": "MBA Finance", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 200000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 60000, "frequency": "One Time" }], "totalEstimatedCost": 900000 },
+  { "university": "Nirma University", "courseTitle": "MBA Marketing", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 200000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 60000, "frequency": "One Time" }], "totalEstimatedCost": 900000 },
+
+
+  { "university": "University of Rajasthan", "courseTitle": "B.A Arts", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 4000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 25000 },
+
+  { "university": "University of Rajasthan", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+  { "university": "University of Rajasthan", "courseTitle": "B.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+
+  { "university": "University of Rajasthan", "courseTitle": "M.A History", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+  { "university": "University of Rajasthan", "courseTitle": "M.A Political Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+
+  { "university": "University of Rajasthan", "courseTitle": "M.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 35000 },
+
+
+  { "university": "Panjab University", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 10000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 4000, "frequency": "One Time" }], "totalEstimatedCost": 65000 },
+  { "university": "Panjab University", "courseTitle": "B.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 10000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 4000, "frequency": "One Time" }], "totalEstimatedCost": 65000 },
+  { "university": "Panjab University", "courseTitle": "B.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 10000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 4000, "frequency": "One Time" }], "totalEstimatedCost": 65000 },
+
+  { "university": "Panjab University", "courseTitle": "B.Com Commerce", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 9000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 4000, "frequency": "One Time" }], "totalEstimatedCost": 60000 },
+
+  { "university": "Panjab University", "courseTitle": "M.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 12000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 5000, "frequency": "One Time" }], "totalEstimatedCost": 70000 },
+
+  { "university": "Panjab University", "courseTitle": "MBA Management", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 80000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 30000, "frequency": "One Time" }], "totalEstimatedCost": 350000 },
+
+
+  { "university": "Punjab University", "courseTitle": "B.A Arts", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+
+  { "university": "Punjab University", "courseTitle": "B.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 35000 },
+
+  { "university": "Punjab University", "courseTitle": "M.A English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 35000 },
+
+  { "university": "Punjab University", "courseTitle": "MBA Management", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 250000 },
+
+
+  { "university": "Himachal Pradesh University", "courseTitle": "B.A Arts", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 4000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 25000 },
+
+  { "university": "Himachal Pradesh University", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+  { "university": "Himachal Pradesh University", "courseTitle": "B.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+
+  { "university": "Himachal Pradesh University", "courseTitle": "M.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+
+  { "university": "Himachal Pradesh University", "courseTitle": "MBA Management", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 50000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 220000 },
+
+  
+  { "university": "University of Kerala", "courseTitle": "B.A English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 40000 },
+  { "university": "University of Kerala", "courseTitle": "B.A History", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 40000 },
+  { "university": "University of Kerala", "courseTitle": "B.A Political Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 40000 },
+
+  { "university": "University of Kerala", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+  { "university": "University of Kerala", "courseTitle": "B.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+  { "university": "University of Kerala", "courseTitle": "B.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+
+  { "university": "University of Kerala", "courseTitle": "M.A English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 8000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 40000 },
+
+  { "university": "University of Kerala", "courseTitle": "M.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 9000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+
+
+  { "university": "Utkal University", "courseTitle": "B.A Arts", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+
+  { "university": "Utkal University", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 35000 },
+  { "university": "Utkal University", "courseTitle": "B.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 35000 },
+
+  { "university": "Utkal University", "courseTitle": "M.Com Commerce", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 35000 },
+
+  { "university": "Utkal University", "courseTitle": "MBA Management", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 250000 },
+
+
+  { "university": "Tezpur University", "courseTitle": "B.Tech CSE", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 20000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 8000, "frequency": "One Time" }], "totalEstimatedCost": 180000 },
+  { "university": "Tezpur University", "courseTitle": "B.Tech Mechanical", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 20000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 8000, "frequency": "One Time" }], "totalEstimatedCost": 180000 },
+  { "university": "Tezpur University", "courseTitle": "B.Tech Civil", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 20000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 8000, "frequency": "One Time" }], "totalEstimatedCost": 180000 },
+
+  { "university": "Tezpur University", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 8000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 50000 },
+
+  { "university": "Tezpur University", "courseTitle": "M.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 9000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 4000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+  { "university": "Tezpur University", "courseTitle": "M.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 9000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 4000, "frequency": "One Time" }], "totalEstimatedCost": 45000 },
+
+  { "university": "Tezpur University", "courseTitle": "MBA Management", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 50000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 20000, "frequency": "One Time" }], "totalEstimatedCost": 220000 },
+
+
+  { "university": "North Eastern Hill University", "courseTitle": "B.A Arts", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 4000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 25000 },
+
+  { "university": "North Eastern Hill University", "courseTitle": "B.Sc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+  { "university": "North Eastern Hill University", "courseTitle": "B.Sc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+
+  { "university": "North Eastern Hill University", "courseTitle": "M.A English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 30000 },
+
+  { "university": "North Eastern Hill University", "courseTitle": "M.Sc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 35000 },
+
+
+  { "university": "Arka Jain University", "courseTitle": "B.Tech CSE", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 80000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 30000, "frequency": "One Time" }], "totalEstimatedCost": 650000 },
+  { "university": "Arka Jain University", "courseTitle": "B.Tech Mechanical", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 80000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 30000, "frequency": "One Time" }], "totalEstimatedCost": 650000 },
+
+  { "university": "Arka Jain University", "courseTitle": "BBA", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 25000, "frequency": "One Time" }], "totalEstimatedCost": 400000 },
+
+  { "university": "Arka Jain University", "courseTitle": "BCA", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 70000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 25000, "frequency": "One Time" }], "totalEstimatedCost": 450000 },
+
+  { "university": "Arka Jain University", "courseTitle": "MBA Management", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 120000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 40000, "frequency": "One Time" }], "totalEstimatedCost": 550000 },
+  
+  { "university": "Salesian College", "courseTitle": "BCA", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 60000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 370000 },
+
+  { "university": "Salesian College", "courseTitle": "BBA", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 50000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 310000 },
+
+  { "university": "Salesian College", "courseTitle": "BA English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 30000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 190000 },
+
+  { "university": "Salesian College", "courseTitle": "BA Political Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 28000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 178000 },
+
+  { "university": "Salesian College", "courseTitle": "BA Sociology", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 28000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 178000 },
+
+  { "university": "Salesian College", "courseTitle": "BA History", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 28000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 10000, "frequency": "One Time" }], "totalEstimatedCost": 178000 },
+
+  { "university": "Salesian College", "courseTitle": "BA Mass Communication", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 35000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 15000, "frequency": "One Time" }], "totalEstimatedCost": 225000 },
+
+
+  { "university": "University of North Bengal", "courseTitle": "BA English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 4000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 26000 },
+
+  { "university": "University of North Bengal", "courseTitle": "BA History", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 4000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 26000 },
+
+  { "university": "University of North Bengal", "courseTitle": "BA Political Science", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 4000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 26000 },
+
+  { "university": "University of North Bengal", "courseTitle": "BSc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 32000 },
+
+  { "university": "University of North Bengal", "courseTitle": "BSc Chemistry", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 32000 },
+
+  { "university": "University of North Bengal", "courseTitle": "BSc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 5000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 2000, "frequency": "One Time" }], "totalEstimatedCost": 32000 },
+
+  { "university": "University of North Bengal", "courseTitle": "MA English", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 27000 },
+
+  { "university": "University of North Bengal", "courseTitle": "MA History", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 6000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 27000 },
+
+  { "university": "University of North Bengal", "courseTitle": "MSc Mathematics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 31000 },
+
+  { "university": "University of North Bengal", "courseTitle": "MSc Physics", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 7000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 3000, "frequency": "One Time" }], "totalEstimatedCost": 31000 },
+
+  { "university": "University of North Bengal", "courseTitle": "MBA", "currency": "INR", "components": [{ "name": "Tuition Fee", "amount": 40000, "frequency": "Per Semester" }, { "name": "Admission Fee", "amount": 15000, "frequency": "One Time" }], "totalEstimatedCost": 175000 }
+]

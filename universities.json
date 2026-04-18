@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Jadavpur University",
+    "location": { "city": "Kolkata", "state": "West Bengal", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A",
+    "establishedYear": 1955
+  },
+  {
+    "name": "Kazi Nazrul University",
+    "location": { "city": "Asansol", "state": "West Bengal", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC Accredited",
+    "establishedYear": 2012
+  },
+  {
+    "name": "Adamas University",
+    "location": { "city": "Barasat", "state": "West Bengal", "country": "India" },
+    "type": "Private",
+    "accreditation": "NAAC A",
+    "establishedYear": 2014
+  },
+  {
+    "name": "University of Calcutta",
+    "location": { "city": "Kolkata", "state": "West Bengal", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A",
+    "establishedYear": 1857
+  },
+  {
+    "name": "Visva-Bharati University",
+    "location": { "city": "Santiniketan", "state": "West Bengal", "country": "India" },
+    "type": "Central",
+    "accreditation": "NAAC A",
+    "establishedYear": 1921
+  },
+
+  {
+    "name": "University of Delhi",
+    "location": { "city": "New Delhi", "state": "Delhi", "country": "India" },
+    "type": "Central",
+    "accreditation": "NAAC A+",
+    "establishedYear": 1922
+  },
+  {
+    "name": "Jawaharlal Nehru University",
+    "location": { "city": "New Delhi", "state": "Delhi", "country": "India" },
+    "type": "Central",
+    "accreditation": "NAAC A++",
+    "establishedYear": 1969
+  },
+  {
+    "name": "Jamia Millia Islamia",
+    "location": { "city": "New Delhi", "state": "Delhi", "country": "India" },
+    "type": "Central",
+    "accreditation": "NAAC A++",
+    "establishedYear": 1920
+  },
+
+  {
+    "name": "Banaras Hindu University",
+    "location": { "city": "Varanasi", "state": "Uttar Pradesh", "country": "India" },
+    "type": "Central",
+    "accreditation": "NAAC A",
+    "establishedYear": 1916
+  },
+  {
+    "name": "Aligarh Muslim University",
+    "location": { "city": "Aligarh", "state": "Uttar Pradesh", "country": "India" },
+    "type": "Central",
+    "accreditation": "NAAC A",
+    "establishedYear": 1920
+  },
+  {
+    "name": "Dr. APJ Abdul Kalam Technical University",
+    "location": { "city": "Lucknow", "state": "Uttar Pradesh", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC Accredited",
+    "establishedYear": 2000
+  },
+
+  {
+    "name": "Mumbai University",
+    "location": { "city": "Mumbai", "state": "Maharashtra", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A+",
+    "establishedYear": 1857
+  },
+  {
+    "name": "Savitribai Phule Pune University",
+    "location": { "city": "Pune", "state": "Maharashtra", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A+",
+    "establishedYear": 1949
+  },
+  {
+    "name": "Shivaji University",
+    "location": { "city": "Kolhapur", "state": "Maharashtra", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A",
+    "establishedYear": 1962
+  },
+
+  {
+    "name": "University of Madras",
+    "location": { "city": "Chennai", "state": "Tamil Nadu", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A",
+    "establishedYear": 1857
+  },
+  {
+    "name": "Anna University",
+    "location": { "city": "Chennai", "state": "Tamil Nadu", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A+",
+    "establishedYear": 1978
+  },
+  {
+    "name": "Bharathiar University",
+    "location": { "city": "Coimbatore", "state": "Tamil Nadu", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A++",
+    "establishedYear": 1982
+  },
+
+  {
+    "name": "Christ University",
+    "location": { "city": "Bengaluru", "state": "Karnataka", "country": "India" },
+    "type": "Private (Deemed)",
+    "accreditation": "NAAC A+",
+    "establishedYear": 1969
+  },
+  {
+    "name": "Bangalore University",
+    "location": { "city": "Bengaluru", "state": "Karnataka", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A",
+    "establishedYear": 1964
+  },
+
+  {
+    "name": "University of Hyderabad",
+    "location": { "city": "Hyderabad", "state": "Telangana", "country": "India" },
+    "type": "Central",
+    "accreditation": "NAAC A",
+    "establishedYear": 1974
+  },
+  {
+    "name": "Osmania University",
+    "location": { "city": "Hyderabad", "state": "Telangana", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A+",
+    "establishedYear": 1918
+  },
+
+  {
+    "name": "Andhra University",
+    "location": { "city": "Visakhapatnam", "state": "Andhra Pradesh", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A+",
+    "establishedYear": 1926
+  },
+
+  {
+    "name": "Nirma University",
+    "location": { "city": "Ahmedabad", "state": "Gujarat", "country": "India" },
+    "type": "Private",
+    "accreditation": "NAAC A+",
+    "establishedYear": 2003
+  },
+
+  {
+    "name": "University of Rajasthan",
+    "location": { "city": "Jaipur", "state": "Rajasthan", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A",
+    "establishedYear": 1947
+  },
+
+  {
+    "name": "Panjab University",
+    "location": { "city": "Chandigarh", "state": "Chandigarh", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A+",
+    "establishedYear": 1882
+  },
+  {
+    "name": "Punjab University",
+    "location": { "city": "Patiala", "state": "Punjab", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A",
+    "establishedYear": 1962
+  },
+
+  {
+    "name": "Himachal Pradesh University",
+    "location": { "city": "Shimla", "state": "Himachal Pradesh", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A",
+    "establishedYear": 1970
+  },
+
+  {
+    "name": "University of Kerala",
+    "location": { "city": "Thiruvananthapuram", "state": "Kerala", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A",
+    "establishedYear": 1937
+  },
+
+  {
+    "name": "Utkal University",
+    "location": { "city": "Bhubaneswar", "state": "Odisha", "country": "India" },
+    "type": "Public",
+    "accreditation": "NAAC A+",
+    "establishedYear": 1943
+  },
+
+  {
+    "name": "Tezpur University",
+    "location": { "city": "Tezpur", "state": "Assam", "country": "India" },
+    "type": "Central",
+    "accreditation": "NAAC A",
+    "establishedYear": 1994
+  },
+
+  {
+    "name": "North Eastern Hill University",
+    "location": { "city": "Shillong", "state": "Meghalaya", "country": "India" },
+    "type": "Central",
+    "accreditation": "NAAC A",
+    "establishedYear": 1973
+  },
+
+  {
+    "name": "Arka Jain University",
+    "location": { "city": "Jamshedpur", "state": "Jharkhand", "country": "India" },
+    "type": "Private",
+    "accreditation": "NAAC A",
+    "establishedYear": 2017
+  },
+
+  {
+  "name": "Salesian College",
+  "location": { "city": "Siliguri", "state": "West Bengal", "country": "India" },
+  "type": "Private",
+  "accreditation": "NAAC A",
+  "establishedYear": 2009
+},
+
+{
+  "name": "University of North Bengal",
+  "location": { "city": "Siliguri","state": "West Bengal", "country": "India" },
+  "type": "Public",
+  "accreditation": "NAAC A",
+  "establishedYear": 1962
+}
+]

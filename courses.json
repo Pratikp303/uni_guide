@@ -1,0 +1,835 @@
+[
+  {
+    "university": "Jadavpur University",
+    "title": "B.Tech Computer Science & Engineering",
+    "discipline": "Engineering",
+    "degreeType": "Bachelor",
+    "duration": "4 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 (PCM) + WBJEE"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.Tech Information Technology",
+    "discipline": "Engineering",
+    "degreeType": "Bachelor",
+    "duration": "4 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 (PCM) + WBJEE"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.Tech Mechanical Engineering",
+    "discipline": "Engineering",
+    "degreeType": "Bachelor",
+    "duration": "4 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 (PCM) + WBJEE"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.Tech Civil Engineering",
+    "discipline": "Engineering",
+    "degreeType": "Bachelor",
+    "duration": "4 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 (PCM) + WBJEE"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.Tech Electrical Engineering",
+    "discipline": "Engineering",
+    "degreeType": "Bachelor",
+    "duration": "4 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 (PCM) + WBJEE"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.Tech Electronics & Telecommunication",
+    "discipline": "Engineering",
+    "degreeType": "Bachelor",
+    "duration": "4 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 (PCM) + WBJEE"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.Tech Chemical Engineering",
+    "discipline": "Engineering",
+    "degreeType": "Bachelor",
+    "duration": "4 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 (PCM) + WBJEE"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.Tech Production Engineering",
+    "discipline": "Engineering",
+    "degreeType": "Bachelor",
+    "duration": "4 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 (PCM) + WBJEE"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.Tech Metallurgical Engineering",
+    "discipline": "Engineering",
+    "degreeType": "Bachelor",
+    "duration": "4 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 (PCM) + WBJEE"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.Tech Instrumentation Engineering",
+    "discipline": "Engineering",
+    "degreeType": "Bachelor",
+    "duration": "4 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 (PCM) + WBJEE"
+  },
+
+  {
+    "university": "Jadavpur University",
+    "title": "B.Sc Physics",
+    "discipline": "Science",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 Science"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.Sc Chemistry",
+    "discipline": "Science",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 Science"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.Sc Mathematics",
+    "discipline": "Science",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 Science"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.Sc Geography",
+    "discipline": "Science",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 Science"
+  },
+
+  {
+    "university": "Jadavpur University",
+    "title": "B.A English",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.A Bengali",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.A Economics",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "B.A History",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2"
+  },
+
+  {
+    "university": "Jadavpur University",
+    "title": "M.Tech Computer Technology",
+    "discipline": "Engineering",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "B.Tech + GATE"
+  },
+  {
+    "university": "Jadavpur University",
+    "title": "M.Tech Power Engineering",
+    "discipline": "Engineering",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "B.Tech + GATE"
+  },
+
+  {
+    "university": "Jadavpur University",
+    "title": "MCA",
+    "discipline": "Computer Applications",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "Graduation + WB JECA"
+  },
+
+  {
+    "university": "Jadavpur University",
+    "title": "PhD Engineering",
+    "discipline": "Research",
+    "degreeType": "Doctorate",
+    "duration": "3-5 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "Post Graduation + NET/GATE"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "B.A English",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "B.A Bengali",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "B.A History",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "B.A Political Science",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "B.A Philosophy",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "B.A Sociology",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2"
+  },
+
+  {
+    "university": "Kazi Nazrul University",
+    "title": "B.Sc Physics",
+    "discipline": "Science",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 Science"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "B.Sc Chemistry",
+    "discipline": "Science",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 Science"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "B.Sc Mathematics",
+    "discipline": "Science",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 Science"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "B.Sc Geography",
+    "discipline": "Science",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 Science"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "B.Sc Environmental Science",
+    "discipline": "Science",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 Science"
+  },
+
+  {
+    "university": "Kazi Nazrul University",
+    "title": "B.Com Accounting & Finance",
+    "discipline": "Commerce",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 Commerce"
+  },
+
+  {
+    "university": "Kazi Nazrul University",
+    "title": "BBA General Management",
+    "discipline": "Management",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2"
+  },
+
+  {
+    "university": "Kazi Nazrul University",
+    "title": "BCA",
+    "discipline": "Computer Applications",
+    "degreeType": "Bachelor",
+    "duration": "3 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "10+2 with Mathematics"
+  },
+
+  {
+    "university": "Kazi Nazrul University",
+    "title": "M.A English",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "Graduation"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "M.A Bengali",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "Graduation"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "M.A History",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "Graduation"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "M.A Political Science",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "Graduation"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "M.A Education",
+    "discipline": "Arts & Humanities",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "Graduation"
+  },
+
+  {
+    "university": "Kazi Nazrul University",
+    "title": "M.Sc Mathematics",
+    "discipline": "Science",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "B.Sc"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "M.Sc Geography",
+    "discipline": "Science",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "B.Sc"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "M.Sc Environmental Science",
+    "discipline": "Science",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "B.Sc"
+  },
+
+  {
+    "university": "Kazi Nazrul University",
+    "title": "M.Com",
+    "discipline": "Commerce",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "B.Com"
+  },
+
+  {
+    "university": "Kazi Nazrul University",
+    "title": "MBA Finance",
+    "discipline": "Management",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "Graduation + Entrance"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "MBA Marketing",
+    "discipline": "Management",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "Graduation + Entrance"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "MBA Human Resource Management",
+    "discipline": "Management",
+    "degreeType": "Master",
+    "duration": "2 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "Graduation + Entrance"
+  },
+
+  {
+    "university": "Kazi Nazrul University",
+    "title": "PhD Arts",
+    "discipline": "Research",
+    "degreeType": "Doctorate",
+    "duration": "3-5 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "Post Graduation + NET/SET"
+  },
+  {
+    "university": "Kazi Nazrul University",
+    "title": "PhD Science",
+    "discipline": "Research",
+    "degreeType": "Doctorate",
+    "duration": "3-5 Years",
+    "studyMode": "Full-Time",
+    "eligibilityCriteria": "Post Graduation + NET/SET"
+  },
+  { "university": "Adamas University", "title": "B.Tech CSE", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Adamas University", "title": "B.Tech AI & ML", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Adamas University", "title": "B.Tech Mechanical Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Adamas University", "title": "B.Tech Civil Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Adamas University", "title": "B.Tech Electronics & Communication Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+
+  { "university": "Adamas University", "title": "BCA", "discipline": "Computer Applications", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 with Mathematics/Computer Science, minimum 50%" },
+  { "university": "Adamas University", "title": "BBA Finance", "discipline": "Management", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 in any stream, minimum 50%" },
+  { "university": "Adamas University", "title": "BBA Marketing", "discipline": "Management", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 in any stream, minimum 50%" },
+  { "university": "Adamas University", "title": "BBA HR", "discipline": "Management", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 in any stream, minimum 50%" },
+
+  { "university": "Adamas University", "title": "MBA Finance", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Bachelor’s degree with minimum 50% + CAT/MAT/XAT or equivalent" },
+  { "university": "Adamas University", "title": "MBA Marketing", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Bachelor’s degree with minimum 50% + entrance exam" },
+  { "university": "Adamas University", "title": "MBA HR", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Bachelor’s degree with minimum 50% + entrance exam" },
+
+  { "university": "University of Calcutta", "title": "B.A English", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 with English, minimum 50%" },
+  { "university": "University of Calcutta", "title": "B.A History", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 in any stream, minimum 50%" },
+  { "university": "University of Calcutta", "title": "B.A Political Science", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 in any stream, minimum 50%" },
+
+  { "university": "University of Calcutta", "title": "B.Sc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 with PCM, minimum 50%" },
+  { "university": "University of Calcutta", "title": "B.Sc Chemistry", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science stream, minimum 50%" },
+  { "university": "University of Calcutta", "title": "B.Sc Mathematics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 with Mathematics, minimum 50%" },
+
+  { "university": "University of Calcutta", "title": "B.Com Accounting", "discipline": "Commerce", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Commerce or related subjects, minimum 50%" },
+
+  { "university": "University of Calcutta", "title": "M.Sc Physics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.Sc Physics or related field, minimum 50%" },
+  { "university": "University of Calcutta", "title": "M.Sc Chemistry", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.Sc Chemistry or related field, minimum 50%" },
+
+  { "university": "Visva-Bharati University", "title": "B.A English", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 with English, minimum 50%" },
+  { "university": "Visva-Bharati University", "title": "B.A Bengali", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 with Bengali/Arts stream" },
+  { "university": "Visva-Bharati University", "title": "B.A Philosophy", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 in any stream" },
+
+  { "university": "Visva-Bharati University", "title": "BFA Fine Arts", "discipline": "Arts", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 + aptitude/entrance test" },
+
+  { "university": "Visva-Bharati University", "title": "M.A English", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.A English or related field" },
+  { "university": "Visva-Bharati University", "title": "M.A Bengali", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.A Bengali or related field" },
+
+  { "university": "University of Delhi", "title": "B.A English", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 + CUET (merit based)" },
+  { "university": "University of Delhi", "title": "B.A Economics", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 with Mathematics + CUET" },
+  { "university": "University of Delhi", "title": "B.A Political Science", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 + CUET" },
+
+  { "university": "University of Delhi", "title": "B.Com", "discipline": "Commerce", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Commerce/Maths + CUET" },
+
+  { "university": "University of Delhi", "title": "M.A English", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.A English + entrance exam" },
+  { "university": "University of Delhi", "title": "M.A Economics", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Bachelor’s with Economics/Maths + entrance exam" },
+
+  { "university": "Jawaharlal Nehru University", "title": "M.A International Relations", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Bachelor’s degree + CUET-PG" },
+  { "university": "Jawaharlal Nehru University", "title": "M.A Economics", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Bachelor’s with Economics/Maths + entrance exam" },
+  { "university": "Jawaharlal Nehru University", "title": "M.A English", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.A English or equivalent + entrance exam" },
+
+  { "university": "Jawaharlal Nehru University", "title": "M.Sc Biotechnology", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.Sc Biology/Biotech + entrance exam" },
+  { "university": "Jawaharlal Nehru University", "title": "M.Sc Physics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.Sc Physics + entrance exam" },
+  { "university": "Jawaharlal Nehru University", "title": "PhD Science", "discipline": "Research", "degreeType": "Doctorate", "duration": "3-5 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Master’s degree in Science (Physics/Chemistry/Biology or related) with minimum 55% + entrance exam + interview" },
+  { "university": "Jawaharlal Nehru University", "title": "PhD Arts", "discipline": "Research", "degreeType": "Doctorate", "duration": "3-5 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Master’s degree (55%+) + entrance + interview" },
+  { "university": "Jamia Millia Islamia", "title": "B.Tech Computer Science Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM + JEE Main" },
+  { "university": "Jamia Millia Islamia", "title": "B.Tech Mechanical Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM + JEE Main" },
+  { "university": "Jamia Millia Islamia", "title": "B.Tech Civil Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM + JEE Main" },
+  { "university": "Jamia Millia Islamia", "title": "B.Tech Electrical Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM + JEE Main" },
+  { "university": "Jamia Millia Islamia", "title": "B.Tech Electronics Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM + JEE Main" },
+
+  { "university": "Jamia Millia Islamia", "title": "BBA Management", "discipline": "Management", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "Jamia Millia Islamia", "title": "BA English", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+  { "university": "Jamia Millia Islamia", "title": "BA Economics", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+  { "university": "Jamia Millia Islamia", "title": "BA Political Science", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "Jamia Millia Islamia", "title": "MBA Finance", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+  { "university": "Jamia Millia Islamia", "title": "MBA Marketing", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+  { "university": "Jamia Millia Islamia", "title": "MBA HR", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+
+  { "university": "Banaras Hindu University", "title": "B.Tech Computer Science Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Banaras Hindu University", "title": "B.Tech Mechanical Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Banaras Hindu University", "title": "B.Tech Civil Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Banaras Hindu University", "title": "B.Tech Electrical Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+
+  { "university": "Banaras Hindu University", "title": "MBBS Medicine", "discipline": "Medical", "degreeType": "Bachelor", "duration": "5.5 Years", "studyMode": "Full-Time", "eligibilityCriteria": "NEET" },
+
+  { "university": "Banaras Hindu University", "title": "BA Arts", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "Banaras Hindu University", "title": "MBA Finance", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+  { "university": "Banaras Hindu University", "title": "MBA Marketing", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+
+  { "university": "Aligarh Muslim University", "title": "B.Tech Computer Science Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Aligarh Muslim University", "title": "B.Tech Mechanical Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Aligarh Muslim University", "title": "B.Tech Civil Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+
+  { "university": "Aligarh Muslim University", "title": "B.Sc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+  { "university": "Aligarh Muslim University", "title": "B.Sc Chemistry", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+
+  { "university": "Aligarh Muslim University", "title": "BA Arts", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "Aligarh Muslim University", "title": "MBA Management", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+
+  { "university": "Dr. APJ Abdul Kalam Technical University", "title": "B.Tech Computer Science Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Dr. APJ Abdul Kalam Technical University", "title": "B.Tech Information Technology", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Dr. APJ Abdul Kalam Technical University", "title": "B.Tech Mechanical Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Dr. APJ Abdul Kalam Technical University", "title": "B.Tech Civil Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+
+  { "university": "Dr. APJ Abdul Kalam Technical University", "title": "B.Pharma", "discipline": "Pharmacy", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCB/PCM" },
+
+  { "university": "Dr. APJ Abdul Kalam Technical University", "title": "MBA Finance", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+  { "university": "Dr. APJ Abdul Kalam Technical University", "title": "MBA Marketing", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+
+  { "university": "Mumbai University", "title": "B.Com Accounting & Finance", "discipline": "Commerce", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Commerce" },
+
+  { "university": "Mumbai University", "title": "B.Sc IT", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+  { "university": "Mumbai University", "title": "B.Sc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+  { "university": "Mumbai University", "title": "B.Sc Chemistry", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+
+  { "university": "Mumbai University", "title": "BA Arts", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "Mumbai University", "title": "MBA Management", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+  
+  { "university": "Savitribai Phule Pune University", "title": "B.Sc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "Savitribai Phule Pune University", "title": "B.Sc Chemistry", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "Savitribai Phule Pune University", "title": "B.Sc Mathematics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "Savitribai Phule Pune University", "title": "B.Sc Computer Science", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+  { "university": "Savitribai Phule Pune University", "title": "BBA Management", "discipline": "Management", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+  { "university": "Savitribai Phule Pune University", "title": "M.Sc Physics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+  { "university": "Savitribai Phule Pune University", "title": "M.Sc Computer Science", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+
+  { "university": "Savitribai Phule Pune University", "title": "MBA Finance", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+  { "university": "Savitribai Phule Pune University", "title": "MBA Marketing", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+
+
+
+  { "university": "Shivaji University", "title": "B.A Arts", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "Shivaji University", "title": "B.Com Commerce", "discipline": "Commerce", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+  { "university": "Shivaji University", "title": "M.A History", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+  { "university": "Shivaji University", "title": "M.A Economics", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+
+  { "university": "Shivaji University", "title": "M.Sc Chemistry", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+  { "university": "Shivaji University", "title": "M.Sc Physics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+
+
+
+  { "university": "University of Madras", "title": "B.A English", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "University of Madras", "title": "B.A History", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+  { "university": "University of Madras", "title": "B.Sc Mathematics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "University of Madras", "title": "B.Sc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+  { "university": "University of Madras", "title": "M.A English", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+  { "university": "University of Madras", "title": "M.Sc Mathematics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+
+
+
+  { "university": "Anna University", "title": "B.Tech Computer Science", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time" },
+  { "university": "Anna University", "title": "B.Tech Information Technology", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time" },
+  { "university": "Anna University", "title": "B.Tech Mechanical Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time" },
+  { "university": "Anna University", "title": "B.Tech Civil Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time" },
+  { "university": "Anna University", "title": "B.Tech Electrical Engineering", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time" },
+
+  { "university": "Anna University", "title": "M.Tech Computer Science", "discipline": "Engineering", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+  { "university": "Anna University", "title": "M.Tech VLSI", "discipline": "Engineering", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+  { "university": "Anna University", "title": "M.Tech Structural Engineering", "discipline": "Engineering", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+
+  { "university": "Anna University", "title": "MBA Finance", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+  { "university": "Anna University", "title": "MBA Marketing", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+
+
+
+  { "university": "Bharathiar University", "title": "B.Sc Computer Science", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "Bharathiar University", "title": "B.Sc Mathematics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+  { "university": "Bharathiar University", "title": "BCA", "discipline": "Computer Applications", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+  { "university": "Bharathiar University", "title": "M.Sc Computer Science", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+
+  { "university": "Bharathiar University", "title": "MBA Management", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+  { "university": "Christ University", "title": "BBA Finance", "discipline": "Management", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "Christ University", "title": "BBA Marketing", "discipline": "Management", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "Christ University", "title": "BBA HR", "discipline": "Management", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+  { "university": "Christ University", "title": "BCA", "discipline": "Computer Applications", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+  { "university": "Christ University", "title": "BA Psychology", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "Christ University", "title": "BA Economics", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "Christ University", "title": "BA English", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+  { "university": "Christ University", "title": "MBA Finance", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+  { "university": "Christ University", "title": "MBA Marketing", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+
+
+
+  { "university": "Bangalore University", "title": "B.Sc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years" },
+  { "university": "Bangalore University", "title": "B.Sc Chemistry", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years" },
+  { "university": "Bangalore University", "title": "B.Sc Mathematics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years" },
+
+  { "university": "Bangalore University", "title": "B.Com", "discipline": "Commerce", "degreeType": "Bachelor", "duration": "3 Years" },
+
+  { "university": "Bangalore University", "title": "M.Sc Mathematics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years" },
+  { "university": "Bangalore University", "title": "M.Sc Computer Science", "discipline": "Science", "degreeType": "Master", "duration": "2 Years" },
+
+  { "university": "Bangalore University", "title": "MBA", "discipline": "Management", "degreeType": "Master", "duration": "2 Years" },
+
+
+
+  { "university": "University of Hyderabad", "title": "M.A English", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years" },
+  { "university": "University of Hyderabad", "title": "M.A Economics", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years" },
+  { "university": "University of Hyderabad", "title": "M.A Political Science", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years" },
+
+  { "university": "University of Hyderabad", "title": "M.Sc Physics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years" },
+  { "university": "University of Hyderabad", "title": "M.Sc Chemistry", "discipline": "Science", "degreeType": "Master", "duration": "2 Years" },
+  { "university": "University of Hyderabad", "title": "M.Sc Mathematics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years" },
+
+  { "university": "University of Hyderabad", "title": "M.Tech Computer Science", "discipline": "Engineering", "degreeType": "Master", "duration": "2 Years" },
+  { "university": "University of Hyderabad", "title": "M.Tech AI", "discipline": "Engineering", "degreeType": "Master", "duration": "2 Years" },
+
+  { "university": "University of Hyderabad", "title": "PhD", "discipline": "Research", "degreeType": "Doctorate", "duration": "3-5 Years" },
+
+
+
+  { "university": "Osmania University", "title": "BA", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years" },
+  { "university": "Osmania University", "title": "B.Com", "discipline": "Commerce", "degreeType": "Bachelor", "duration": "3 Years" },
+
+  { "university": "Osmania University", "title": "M.Sc Physics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years" },
+  { "university": "Osmania University", "title": "M.Sc Chemistry", "discipline": "Science", "degreeType": "Master", "duration": "2 Years" },
+
+  { "university": "Osmania University", "title": "MBA", "discipline": "Management", "degreeType": "Master", "duration": "2 Years" },
+
+
+
+  { "university": "Andhra University", "title": "B.Tech CSE", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years" },
+  { "university": "Andhra University", "title": "B.Tech Mechanical", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years" },
+  { "university": "Andhra University", "title": "B.Tech Civil", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years" },
+
+  { "university": "Andhra University", "title": "B.Sc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years" },
+  { "university": "Andhra University", "title": "B.Sc Mathematics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years" },
+
+  { "university": "Andhra University", "title": "M.Sc Computer Science", "discipline": "Science", "degreeType": "Master", "duration": "2 Years" },
+
+  { "university": "Andhra University", "title": "MBA Finance", "discipline": "Management", "degreeType": "Master", "duration": "2 Years" },
+  { "university": "Andhra University", "title": "MBA Marketing", "discipline": "Management", "degreeType": "Master", "duration": "2 Years" },
+
+  { "university": "Nirma University", "title": "B.Tech CSE", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Nirma University", "title": "B.Tech IT", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Nirma University", "title": "B.Tech Mechanical", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Nirma University", "title": "B.Tech Civil", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+
+  { "university": "Nirma University", "title": "BBA Management", "discipline": "Management", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "Nirma University", "title": "B.Com Commerce", "discipline": "Commerce", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "Nirma University", "title": "MBA Finance", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+  { "university": "Nirma University", "title": "MBA Marketing", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+
+
+  { "university": "University of Rajasthan", "title": "B.A Arts", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "University of Rajasthan", "title": "B.Sc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+  { "university": "University of Rajasthan", "title": "B.Sc Chemistry", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+
+  { "university": "University of Rajasthan", "title": "M.A History", "discipline": "Arts & Humanities", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+  { "university": "University of Rajasthan", "title": "M.A Political Science", "discipline": "Arts & Humanities", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+
+  { "university": "University of Rajasthan", "title": "M.Sc Mathematics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.Sc" },
+
+
+  { "university": "Panjab University", "title": "B.Sc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+  { "university": "Panjab University", "title": "B.Sc Chemistry", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+  { "university": "Panjab University", "title": "B.Sc Mathematics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+
+  { "university": "Panjab University", "title": "B.Com Commerce", "discipline": "Commerce", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Commerce" },
+
+  { "university": "Panjab University", "title": "M.Sc Physics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.Sc" },
+
+  { "university": "Panjab University", "title": "MBA Management", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+
+
+  { "university": "Punjab University", "title": "B.A Arts", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "Punjab University", "title": "B.Sc Mathematics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+
+  { "university": "Punjab University", "title": "M.A English", "discipline": "Arts & Humanities", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+
+  { "university": "Punjab University", "title": "MBA Management", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+
+
+  { "university": "Himachal Pradesh University", "title": "B.A Arts", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "Himachal Pradesh University", "title": "B.Sc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+  { "university": "Himachal Pradesh University", "title": "B.Sc Chemistry", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+
+  { "university": "Himachal Pradesh University", "title": "M.Sc Mathematics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.Sc" },
+
+  { "university": "Himachal Pradesh University", "title": "MBA Management", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+  
+  { "university": "University of Kerala", "title": "B.A English", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+  { "university": "University of Kerala", "title": "B.A History", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+  { "university": "University of Kerala", "title": "B.A Political Science", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "University of Kerala", "title": "B.Sc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+  { "university": "University of Kerala", "title": "B.Sc Chemistry", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+  { "university": "University of Kerala", "title": "B.Sc Mathematics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+
+  { "university": "University of Kerala", "title": "M.A English", "discipline": "Arts & Humanities", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+  { "university": "University of Kerala", "title": "M.Sc Mathematics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.Sc" },
+
+
+  { "university": "Utkal University", "title": "B.A Arts", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "Utkal University", "title": "B.Sc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+  { "university": "Utkal University", "title": "B.Sc Chemistry", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+
+  { "university": "Utkal University", "title": "M.Com Commerce", "discipline": "Commerce", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.Com" },
+
+  { "university": "Utkal University", "title": "MBA Management", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+
+
+  { "university": "Tezpur University", "title": "B.Tech CSE", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Tezpur University", "title": "B.Tech Mechanical", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Tezpur University", "title": "B.Tech Civil", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+
+  { "university": "Tezpur University", "title": "B.Sc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+
+  { "university": "Tezpur University", "title": "M.Sc Mathematics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.Sc" },
+  { "university": "Tezpur University", "title": "M.Sc Physics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.Sc" },
+
+  { "university": "Tezpur University", "title": "MBA Management", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+
+
+  { "university": "North Eastern Hill University", "title": "B.A Arts", "discipline": "Arts & Humanities", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "North Eastern Hill University", "title": "B.Sc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+  { "university": "North Eastern Hill University", "title": "B.Sc Chemistry", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 Science" },
+
+  { "university": "North Eastern Hill University", "title": "M.A English", "discipline": "Arts & Humanities", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+  { "university": "North Eastern Hill University", "title": "M.Sc Mathematics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "B.Sc" },
+
+
+  { "university": "Arka Jain University", "title": "B.Tech CSE", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+  { "university": "Arka Jain University", "title": "B.Tech Mechanical", "discipline": "Engineering", "degreeType": "Bachelor", "duration": "4 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2 PCM" },
+
+  { "university": "Arka Jain University", "title": "BBA", "discipline": "Management", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "Arka Jain University", "title": "BCA", "discipline": "Computer Applications", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time", "eligibilityCriteria": "10+2" },
+
+  { "university": "Arka Jain University", "title": "MBA Management", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time", "eligibilityCriteria": "Graduation" },
+  
+  { "university": "Salesian College", "title": "BCA", "discipline": "Computer Applications", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "Salesian College", "title": "BBA", "discipline": "Management", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+  { "university": "Salesian College", "title": "BA English", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "Salesian College", "title": "BA Political Science", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "Salesian College", "title": "BA Sociology", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "Salesian College", "title": "BA History", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+  { "university": "Salesian College", "title": "BA Mass Communication", "discipline": "Media", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+
+  { "university": "University of North Bengal", "title": "BA English", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "University of North Bengal", "title": "BA History", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "University of North Bengal", "title": "BA Political Science", "discipline": "Arts", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+  { "university": "University of North Bengal", "title": "BSc Physics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "University of North Bengal", "title": "BSc Chemistry", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+  { "university": "University of North Bengal", "title": "BSc Mathematics", "discipline": "Science", "degreeType": "Bachelor", "duration": "3 Years", "studyMode": "Full-Time" },
+
+  { "university": "University of North Bengal", "title": "MA English", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+  { "university": "University of North Bengal", "title": "MA History", "discipline": "Arts", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+
+  { "university": "University of North Bengal", "title": "MSc Mathematics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+  { "university": "University of North Bengal", "title": "MSc Physics", "discipline": "Science", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" },
+
+  { "university": "University of North Bengal", "title": "MBA", "discipline": "Management", "degreeType": "Master", "duration": "2 Years", "studyMode": "Full-Time" }
+]

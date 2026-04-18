@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Computer Applications",
+    "slug": "computer-applications",
+    "description": "Programs like BCA, MCA focusing on software and IT"
+  },
+  {
+    "name": "Engineering",
+    "slug": "engineering",
+    "description": "Technical programs like B.Tech, M.Tech"
+  },
+  {
+    "name": "Management",
+    "slug": "management",
+    "description": "Business and management programs like BBA, MBA"
+  },
+  {
+    "name": "Commerce",
+    "slug": "commerce",
+    "description": "Finance, accounting and business studies like B.Com, M.Com"
+  },
+  {
+    "name": "Arts & Humanities",
+    "slug": "arts-humanities",
+    "description": "History, Political Science, Sociology, Literature etc"
+  },
+  {
+    "name": "Science",
+    "slug": "science",
+    "description": "Pure sciences like Physics, Chemistry, Mathematics"
+  },
+  {
+    "name": "Law",
+    "slug": "law",
+    "description": "Legal studies like LLB, LLM"
+  },
+  {
+    "name": "Medical & Health Sciences",
+    "slug": "medical-health",
+    "description": "MBBS, Nursing, Pharmacy and healthcare programs"
+  },
+  {
+    "name": "Education",
+    "slug": "education",
+    "description": "Teaching programs like B.Ed, M.Ed"
+  },
+  {
+    "name": "Mass Communication & Media",
+    "slug": "mass-communication",
+    "description": "Journalism, media, film and communication studies"
+  },
+  {
+    "name": "Design",
+    "slug": "design",
+    "description": "Fashion design, graphic design, interior design"
+  },
+  {
+    "name": "Architecture",
+    "slug": "architecture",
+    "description": "Programs like B.Arch focusing on building design"
+  },
+  {
+    "name": "Pharmacy",
+    "slug": "pharmacy",
+    "description": "B.Pharm, M.Pharm related to medicines and drugs"
+  },
+  {
+    "name": "Agriculture",
+    "slug": "agriculture",
+    "description": "Agricultural sciences and farming technologies"
+  },
+  {
+    "name": "Hotel Management",
+    "slug": "hotel-management",
+    "description": "Hospitality, tourism, hotel administration"
+  },
+  {
+    "name": "Fine Arts",
+    "slug": "fine-arts",
+    "description": "Painting, sculpture, performing arts"
+  },
+  {
+    "name": "Social Work",
+    "slug": "social-work",
+    "description": "Programs focused on community service and welfare"
+  },
+  {
+    "name": "Psychology",
+    "slug": "psychology",
+    "description": "Study of human behavior and mental processes"
+  },
+  {
+    "name": "Environmental Science",
+    "slug": "environmental-science",
+    "description": "Study of environment, sustainability and ecology"
+  },
+  {
+    "name": "Data Science & AI",
+    "slug": "data-science-ai",
+    "description": "Artificial Intelligence, Machine Learning, Data Analysis"
+  },
+  {
+    "name": "Animation & Multimedia",
+    "slug": "animation-multimedia",
+    "description": "Animation, VFX, gaming and multimedia design"
+  },
+  {
+    "name": "Aviation",
+    "slug": "aviation",
+    "description": "Pilot training, aviation management"
+  },
+  {
+  "name": "Research",
+  "slug": "research",
+  "description": "Advanced academic and scientific research programs like PhD, MPhil, and research fellowships across various disciplines"
+},
+{
+  "name": "Arts",
+  "slug": "arts",
+  "description": "Programs in humanities and liberal arts such as BA in English, History, Political Science, Sociology, Psychology, and related fields"
+}
+]

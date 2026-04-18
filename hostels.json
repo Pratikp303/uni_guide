@@ -1,0 +1,534 @@
+[
+  {
+    "universityName": "Jadavpur University",
+    "name": "JU Main Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "24x7 Security", "Reading Room", "Sports Facilities", "Common Room"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 15000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 12000, "ac": false }
+    ]
+  },
+  {
+    "universityName": "Jadavpur University",
+    "name": "JU Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "24x7 Security", "CCTV", "Study Room", "Medical Support"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 16000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 13000, "ac": false }
+    ]
+  },
+
+  {
+    "universityName": "Kazi Nazrul University",
+    "name": "KNU Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Security", "Common Room", "Sports Area"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 18000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 15000, "ac": false }
+    ]
+  },
+  {
+    "universityName": "Kazi Nazrul University",
+    "name": "KNU Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "24x7 Security", "CCTV", "Study Room"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 20000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 16000, "ac": false }
+    ]
+  },
+
+  {
+    "universityName": "Adamas University",
+    "name": "Adamas Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "AC Rooms", "Mess", "Gym", "Laundry", "24x7 Security", "Sports Complex"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 180000, "ac": true },
+      { "occupancy": "Double", "costPerYear": 140000, "ac": true },
+      { "occupancy": "Triple", "costPerYear": 110000, "ac": false }
+    ]
+  },
+  {
+    "universityName": "Adamas University",
+    "name": "Adamas Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "AC Rooms", "Mess", "Laundry", "CCTV", "24x7 Security", "Medical Support"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 190000, "ac": true },
+      { "occupancy": "Double", "costPerYear": 150000, "ac": true }
+    ]
+  },
+
+  {
+    "universityName": "University of Calcutta",
+    "name": "CU Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Library Access", "Common Room", "Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 12000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 10000, "ac": false }
+    ]
+  },
+  {
+    "universityName": "University of Calcutta",
+    "name": "CU Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security", "Study Room"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 13000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 11000, "ac": false }
+    ]
+  },
+
+  {
+    "universityName": "Visva-Bharati University",
+    "name": "VB Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Green Campus", "Common Room", "Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 14000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 11000, "ac": false }
+    ]
+  },
+  {
+    "universityName": "Visva-Bharati University",
+    "name": "VB Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security", "Medical Support"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 15000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 12000, "ac": false }
+    ]
+  },
+  
+  {
+    "university": "Dr. APJ Abdul Kalam Technical University",
+    "name": "AKTU Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "24x7 Security", "CCTV", "Common Room", "Sports Facilities"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 50000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 40000, "ac": false }
+    ]
+  },
+  {
+    "university": "Dr. APJ Abdul Kalam Technical University",
+    "name": "AKTU Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security", "Biometric Entry", "Medical Support"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 55000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 45000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "Mumbai University",
+    "name": "MU Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "24x7 Security", "Common Room", "Library Access"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 40000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 30000, "ac": false }
+    ]
+  },
+  {
+    "university": "Mumbai University",
+    "name": "MU Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security", "Study Room"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 45000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 35000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "Savitribai Phule Pune University",
+    "name": "SPPU Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Gym", "Sports Facilities", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 60000, "ac": false },
+      { "occupancy": "Double", "costPerYear": 50000, "ac": false }
+    ]
+  },
+  {
+    "university": "Savitribai Phule Pune University",
+    "name": "SPPU Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security", "Medical Support"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 65000, "ac": false },
+      { "occupancy": "Double", "costPerYear": 55000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "Shivaji University",
+    "name": "Shivaji Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Common Room", "Sports Area", "Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 30000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 25000, "ac": false }
+    ]
+  },
+  {
+    "university": "Shivaji University",
+    "name": "Shivaji Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security", "Study Room"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 32000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 27000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "University of Madras",
+    "name": "Madras Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Library Access", "Common Room", "Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 35000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 30000, "ac": false }
+    ]
+  },
+  {
+    "university": "University of Madras",
+    "name": "Madras Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security", "Medical Support"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 38000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 32000, "ac": false }
+    ]
+  },
+
+  
+  {
+    "university": "Anna University",
+    "name": "CEG Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "24x7 Security", "Laundry", "Sports Facilities"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 35000, "ac": false }
+    ]
+  },
+  {
+    "university": "Anna University",
+    "name": "Guindy PG Residency",
+    "type": "Off-Campus (Near College)",
+    "facilities": ["WiFi", "Food Included", "Laundry", "CCTV", "Housekeeping"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 120000, "ac": true },
+      { "occupancy": "Double", "costPerYear": 90000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "Christ University",
+    "name": "Christ University Main Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "AC Rooms", "Mess", "Gym", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 180000, "ac": true }
+    ]
+  },
+  {
+    "university": "Christ University",
+    "name": "SG Palya Student PG",
+    "type": "Off-Campus (Near College)",
+    "facilities": ["WiFi", "Food Included", "Laundry", "CCTV", "Power Backup"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 150000, "ac": true },
+      { "occupancy": "Double", "costPerYear": 100000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "University of Hyderabad",
+    "name": "Men's Hostel H",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Reading Room", "Security"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 22000, "ac": false }
+    ]
+  },
+  {
+    "university": "University of Hyderabad",
+    "name": "Gachibowli Student Hostel",
+    "type": "Off-Campus (Near College)",
+    "facilities": ["WiFi", "Food Included", "Gym", "Laundry", "CCTV"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 130000, "ac": true },
+      { "occupancy": "Double", "costPerYear": 90000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "Osmania University",
+    "name": "OU Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Common Room", "Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 20000, "ac": false }
+    ]
+  },
+  {
+    "university": "Osmania University",
+    "name": "Tarnaka PG Hostel",
+    "type": "Off-Campus (Near College)",
+    "facilities": ["WiFi", "Food Included", "Laundry", "CCTV"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 110000, "ac": true },
+      { "occupancy": "Double", "costPerYear": 80000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "Nirma University",
+    "name": "Nirma Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "AC Rooms", "Mess", "Gym", "Security"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 160000, "ac": true }
+    ]
+  },
+  {
+    "university": "Nirma University",
+    "name": "Infocity Student PG",
+    "type": "Off-Campus (Near College)",
+    "facilities": ["WiFi", "Food Included", "Gym", "Laundry", "Power Backup"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 140000, "ac": true },
+      { "occupancy": "Double", "costPerYear": 100000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "University of Rajasthan",
+    "name": "RU Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Sports Facilities", "Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 15000, "ac": false }
+    ]
+  },
+  {
+    "university": "University of Rajasthan",
+    "name": "Jaipur Student PG",
+    "type": "Off-Campus (Near College)",
+    "facilities": ["WiFi", "Food Included", "Laundry", "CCTV", "Housekeeping"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 100000, "ac": true },
+      { "occupancy": "Double", "costPerYear": 75000, "ac": false }
+    ]
+  },
+
+  
+  {
+    "university": "Panjab University",
+    "name": "PU Boys Hostel No. 4",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Sports Complex", "24x7 Security", "Reading Room"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 25000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 20000, "ac": false }
+    ]
+  },
+  {
+    "university": "Panjab University",
+    "name": "PU Girls Hostel No. 8",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security", "Study Room"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 26000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 21000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "Punjab University",
+    "name": "PU Patiala Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Common Room", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 20000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 16000, "ac": false }
+    ]
+  },
+  {
+    "university": "Punjab University",
+    "name": "PU Patiala Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 21000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 17000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "Himachal Pradesh University",
+    "name": "HPU Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Common Room", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 18000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 15000, "ac": false }
+    ]
+  },
+  {
+    "university": "Himachal Pradesh University",
+    "name": "HPU Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 19000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 16000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "University of Kerala",
+    "name": "Kerala University Men's Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Reading Room", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 22000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 18000, "ac": false }
+    ]
+  },
+  {
+    "university": "University of Kerala",
+    "name": "Kerala University Women's Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security", "Medical Support"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 23000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 19000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "Utkal University",
+    "name": "Utkal Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Sports Ground", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 20000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 16000, "ac": false }
+    ]
+  },
+  {
+    "university": "Utkal University",
+    "name": "Utkal Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 21000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 17000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "Tezpur University",
+    "name": "Tezpur University Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Green Campus", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 18000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 14000, "ac": false }
+    ]
+  },
+  {
+    "university": "Tezpur University",
+    "name": "Tezpur University Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 19000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 15000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "North Eastern Hill University",
+    "name": "NEHU Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Common Room", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 17000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 14000, "ac": false }
+    ]
+  },
+  {
+    "university": "North Eastern Hill University",
+    "name": "NEHU Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 18000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 15000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "Arka Jain University",
+    "name": "Arka Jain Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Gym", "Laundry", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 120000, "ac": true },
+      { "occupancy": "Double", "costPerYear": 90000, "ac": false }
+    ]
+  },
+  {
+    "university": "Arka Jain University",
+    "name": "Arka Jain Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "Laundry", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Single", "costPerYear": 130000, "ac": true },
+      { "occupancy": "Double", "costPerYear": 95000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "Salesian College",
+    "name": "Salesian College Girls Hostel",
+    "type": "Off-Campus (Near College)",
+    "facilities": ["WiFi", "Mess", "24x7 Security", "CCTV", "Study Room", "Prayer Room"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 70000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 60000, "ac": false }
+    ]
+  },
+
+  {
+    "university": "University of North Bengal",
+    "name": "NBU Boys Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "Green Campus", "24x7 Security"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 15000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 12000, "ac": false }
+    ]
+  },
+  {
+    "university": "University of North Bengal",
+    "name": "NBU Girls Hostel",
+    "type": "On-Campus",
+    "facilities": ["WiFi", "Mess", "CCTV", "24x7 Security", "Medical Support"],
+    "roomTypes": [
+      { "occupancy": "Double", "costPerYear": 16000, "ac": false },
+      { "occupancy": "Triple", "costPerYear": 13000, "ac": false }
+    ]
+  }
+]
