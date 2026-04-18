@@ -1,4 +1,4 @@
-const Hostel = require('../models/Hostel');
+const Hostel = require('./Hostel'); // ✅ Fixed: Points to main folder
 
 // ==============================
 // GET all hostels / SEARCH hostels
