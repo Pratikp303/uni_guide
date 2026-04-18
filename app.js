@@ -3,21 +3,18 @@ const cors = require("cors");
 const app = express();
 
 // ✅ MIDDLEWARE
-// In production, you might want to allow your specific frontend URL
-app.use(cors({
-    origin: ["http://localhost:3000", "https://your-frontend-link.vercel.app"], 
-    credentials: true 
-}));
+app.use(cors());
 app.use(express.json());
 
-// ✅ IMPORT ROUTES (Fixed paths)
-const universityRoutes = require('./routes/universityRoutes');
-const disciplineRoutes = require('./routes/disciplineRoutes');
-const courseRoutes = require('./routes/courseRoutes');
-const feeRoutes = require('./routes/feeRoutes');
-const hostelRoutes = require('./routes/hostelRoutes');
-const authRoutes = require('./routes/authRoutes');
-const searchRoutes = require('./routes/searchRoutes');
+// ✅ IMPORT ROUTES 
+// Fixed: Removed './routes/' because the files are in your main directory
+const universityRoutes = require('./universityRoutes');
+const disciplineRoutes = require('./disciplineRoutes');
+const courseRoutes = require('./courseRoutes');
+const feeRoutes = require('./feeRoutes');
+const hostelRoutes = require('./hostelRoutes');
+const authRoutes = require('./authRoutes');
+const searchRoutes = require('./searchRoutes');
 
 // ✅ USE ROUTES
 app.use('/api/v1/universities', universityRoutes);
@@ -30,8 +27,7 @@ app.use('/api/v1/search', searchRoutes);
 
 // ✅ TEST ROUTE
 app.get('/', (req, res) => {
-    res.send("API Running 🚀");
+    res.send("API is running perfectly! 🚀");
 });
 
-// ✅ EXPORT
-module.exports = app;s
+module.exports = app;
