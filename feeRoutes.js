@@ -4,12 +4,12 @@ const router = express.Router();
 const {
   getFees,
   createFee,
-  getFeeById
-} = require('./feeController'); // ✅ Fixed: Points to main folder
+  searchFeesByCourseName // ✅ Swapped to the correct function
+} = require('./feeController'); // ✅ Points to main folder
 
 // 🔐 IMPORT MIDDLEWARES
-const protect = require('./authMiddleware'); // ✅ Fixed
-const adminOnly = require('./adminMiddleware'); // ✅ Fixed
+const protect = require('./authMiddleware'); 
+const adminOnly = require('./adminMiddleware'); 
 
 // ==============================
 // PUBLIC ROUTES
@@ -18,8 +18,8 @@ const adminOnly = require('./adminMiddleware'); // ✅ Fixed
 // GET all fees
 router.get('/', getFees);
 
-// GET fee by ID
-router.get('/:id', getFeeById);
+// 🔍 SEARCH fees (Replaced the invalid getFeeById route)
+router.get('/search', searchFeesByCourseName); 
 
 // ==============================
 // 🔒 PROTECTED ROUTES
