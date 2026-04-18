@@ -5,11 +5,11 @@ const {
   getCourses,
   createCourse,
   searchCourses
-} = require('../controllers/courseController');
+} = require('./courseController'); // ✅ Fixed: Removed ../controllers/
 
 // 🔐 IMPORT MIDDLEWARES
-const protect = require('../middlewares/authMiddleware');
-const adminOnly = require('../middlewares/adminMiddleware');
+const protect = require('./authMiddleware'); // ✅ Fixed: Removed ../middlewares/
+const adminOnly = require('./adminMiddleware'); // ✅ Fixed: Removed ../middlewares/
 
 // ==============================
 // PUBLIC ROUTES
