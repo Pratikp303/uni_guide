@@ -1,28 +1,29 @@
 const jwt = require('jsonwebtoken');
+const User = require('./User'); // ✅ Path fixed to main folder
 
 // 🔐 VERIFY TOKEN
-const protect = (req, res, next) => {
+const protect = async (req, res, next) => {
   try {
     const authHeader = req.headers.authorization;
 
-    // check token exists
+    // 1. Check if token exists
     if (!authHeader || !authHeader.startsWith('Bearer ')) {
       return res.status(401).json({ message: 'Not authorized, no token' });
     }
 
-    // extract token
+    // 2. Extract token
     const token = authHeader.split(' ')[1];
 
-    // verify token
+    // 3. Verify token
     const decoded = jwt.verify(token, process.env.JWT_SECRET);
 
-    // attach user info
-    req.user = decoded;
+    // 4. Attach actual User from DB (excluding password)
+    req.user = await User.findById(decoded.id).select('-password');
 
     next();
 
   } catch (error) {
-    res.status(401).json({ message: 'Invalid token' });
+    res.status(401).json({ message: 'Not authorized, invalid token' });
   }
 };
 
