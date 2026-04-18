@@ -1,4 +1,4 @@
-const University = require('../models/University');
+const University = require('./University'); // ✅ Fixed: Removed ../models/
 
 // ==============================
 // GET ALL UNIVERSITIES
@@ -68,9 +68,7 @@ const searchUniversities = async (req, res) => {
       };
     }
 
-    // CASE 4: NO FILTER → return all
     const universities = await University.find(filter);
-
     res.json(universities);
 
   } catch (error) {
