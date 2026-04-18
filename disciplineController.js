@@ -1,4 +1,4 @@
-const Discipline = require('../models/Discipline');
+const Discipline = require('./Discipline'); // ✅ Fixed: Removed ../models/
 
 // ==============================
 // GET ALL DISCIPLINES
