@@ -5,7 +5,7 @@ const {
   signup,
   login,
   getUsers
-} = require('../controllers/authController');
+} = require('./authController'); // ✅ Fixed: Removed ../controllers/
 
 // ✅ IMPORT VALIDATOR
 const { body, validationResult } = require('express-validator');
@@ -50,7 +50,7 @@ router.post(
   login
 );
 
-// GET USERS (optional: you can protect this later)
+// GET USERS
 router.get('/users', getUsers);
 
 module.exports = router;
