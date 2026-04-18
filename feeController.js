@@ -1,4 +1,4 @@
-const Fee = require('../models/Fee');
+const Fee = require('./Fee'); // ✅ Fixed: Points to main folder
 
 // ==============================
 // GET ALL FEES
