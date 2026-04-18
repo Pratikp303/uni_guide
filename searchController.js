@@ -1,6 +1,6 @@
-const Course = require('../models/Course');
-const Fee = require('../models/Fee');
-const Hostel = require('../models/Hostel');
+const Course = require('./Course'); // ✅ Fixed
+const Fee = require('./Fee');       // ✅ Fixed
+const Hostel = require('./Hostel'); // ✅ Fixed
 
 // ==============================
 // 🔥 MASTER SEARCH API
@@ -63,7 +63,7 @@ const masterSearch = async (req, res) => {
     // ==============================
     // STEP 3: GET HOSTELS
     // ==============================
-    const universityIds = filteredCourses.map(c => c.universityId._id);
+    const universityIds = filteredCourses.map(c => c.universityId?._id);
 
     const hostels = await Hostel.find({
       universityId: { $in: universityIds }
@@ -75,7 +75,7 @@ const masterSearch = async (req, res) => {
     const result = filteredCourses.map(course => {
       const fee = fees.find(f => f.courseId.toString() === course._id.toString());
       const uniHostels = hostels.filter(
-        h => h.universityId.toString() === course.universityId._id.toString()
+        h => h.universityId.toString() === course.universityId?._id.toString()
       );
 
       return {
