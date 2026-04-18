@@ -1,15 +1,9 @@
 const express = require('express');
 const router = express.Router();
 
-const {
-  getUniversities,
-  createUniversity,
-  searchUniversities
-} = require('../controllers/universityController');
-
-// 🔐 IMPORT MIDDLEWARES
-const protect = require('../middlewares/authMiddleware');
-const adminOnly = require('../middlewares/adminMiddleware');
+const { getUniversities, createUniversity, searchUniversities } = require('./universityController'); 
+const protect = require('./authMiddleware'); 
+const adminOnly = require('./adminMiddleware');
 
 // ==============================
 // PUBLIC ROUTES
