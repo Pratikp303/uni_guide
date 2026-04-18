@@ -5,11 +5,11 @@ const {
   getDisciplines,
   createDiscipline,
   searchDisciplines
-} = require('../controllers/disciplineController');
+} = require('./disciplineController'); // ✅ Fixed: Points to main folder
 
 // 🔐 IMPORT MIDDLEWARES
-const protect = require('../middlewares/authMiddleware');
-const adminOnly = require('../middlewares/adminMiddleware');
+const protect = require('./authMiddleware'); // ✅ Fixed
+const adminOnly = require('./adminMiddleware'); // ✅ Fixed
 
 // ==============================
 // PUBLIC ROUTES
