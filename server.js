@@ -1,14 +1,22 @@
+require('dotenv').config(); // This MUST be the first line
 const app = require('./app');
 const mongoose = require('mongoose');
 
-mongoose.connect(process.env.MONGO_URI)
+// Use the Environment Variable from Render
+const mongoURI = process.env.MONGO_URI;
+
+mongoose.connect(mongoURI)
   .then(() => {
-    console.log("DB Connected");
-
-    app.listen(5000, () => {
-      console.log("Server running on port 5000");
+    console.log("✅ MongoDB Connected Successfully");
+    
+    // Render provides the PORT automatically
+    const PORT = process.env.PORT || 5000;
+    
+    app.listen(PORT, () => {
+      console.log(`🚀 Server is running on port ${PORT}`);
     });
-
   })
-  .catch(err => console.log(err));
-  require('dotenv').config();
+  .catch(err => {
+    console.error("❌ MongoDB Connection Error:", err);
+    process.exit(1); // Stop the server if DB fails
+  });
