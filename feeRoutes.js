@@ -1,28 +1,31 @@
 const express = require('express');
 const router = express.Router();
 
-// ✅ SAFE IMPORT
-const feeController = require('../controllers/feeController');
+const {
+  getHostels,
+  createHostel,
+  getHostelById
+} = require('./hostelController'); // ✅ Fixed: Removed ../controllers/
 
 // 🔐 IMPORT MIDDLEWARES
-const protect = require('../middlewares/authMiddleware');
-const adminOnly = require('../middlewares/adminMiddleware');
+const protect = require('./authMiddleware'); // ✅ Fixed: Removed ../middlewares/
+const adminOnly = require('./adminMiddleware'); // ✅ Fixed: Removed ../middlewares/
 
 // ==============================
 // PUBLIC ROUTES
 // ==============================
 
-// GET all fees
-router.get('/', feeController.getFees);
+// GET all hostels / search
+router.get('/', getHostels);
 
-// 🔍 search by course name
-router.get('/search-course', feeController.searchFeesByCourseName);
+// GET hostel by ID
+router.get('/:id', getHostelById);
 
 // ==============================
 // 🔒 PROTECTED ROUTES
 // ==============================
 
-// CREATE fee (ADMIN ONLY)
-router.post('/', protect, adminOnly, feeController.createFee);
+// CREATE hostel (ADMIN ONLY)
+router.post('/', protect, adminOnly, createHostel);
 
 module.exports = router;
